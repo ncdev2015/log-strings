@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace log_de_strings
+namespace log_strings
 {
     class Program
     {
